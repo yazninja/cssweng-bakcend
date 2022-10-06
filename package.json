@@ -1,0 +1,14 @@
+{
+  "name": "cssweng-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "yazninja <yazlesean@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
